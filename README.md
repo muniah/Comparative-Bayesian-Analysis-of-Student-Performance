@@ -16,11 +16,6 @@ This repository contains the code and report for a Bayesian analysis investigati
 - Python 3.8+  
 - Libraries: `cmdstanpy`, `pandas`, `numpy`, `scikit-learn`, `matplotlib`, `seaborn`  
 
-## How to Use
-1. Install dependencies via `pip install -r requirements.txt`.  
-2. Run the notebook to reproduce analyses or modify models.  
-3. Refer to the report for context and interpretations.  
-
 ## Citation
 If referencing this work, please cite the report authors:  
 > Dhamini Rao Pantra, Eshani Nandy, Mishaal Khan, Munia Humaira. *Comparative Bayesian Analysis of Factors Affecting Student Performance*. University of Waterloo, 2024.  
